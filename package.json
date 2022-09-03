@@ -1,0 +1,19 @@
+{
+  "name": "safedataget",
+  "version": "1.0.0",
+  "description": "an utility function for getting value from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lemon-Hoyoung/safeDataGet.git"
+  },
+  "author": "lennonboxing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lemon-Hoyoung/safeDataGet/issues"
+  },
+  "homepage": "https://github.com/Lemon-Hoyoung/safeDataGet#readme"
+}
