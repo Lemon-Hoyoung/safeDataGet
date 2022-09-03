@@ -30,9 +30,9 @@ const valueReturnFunc = function(value) {
 }
 
 export {
-    judgeIsFunction,
     judgeIsObject,
     judgeIsUndefinedOrNull,
+    judgeIsUndefined,
     judgeIsFunction,
     selfReturnFunc,
     valueReturnFunc
